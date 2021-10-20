@@ -1,6 +1,6 @@
 var commisionPercentage  = 0.0075
 var minCommision = 3500
-var commisionAmmount =0.0
+var commisionAmmount = 0.0
 
 fun main(args: Array<String>) {
 
